@@ -1,5 +1,5 @@
 {
-  "name": "twitter-clone",
+  "name": "node-demo",
   "version": "1.0.0",
   "description": "node refresher ",
   "main": "myApp.js",
@@ -8,5 +8,8 @@
     "start": "node myApp"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
